@@ -5,6 +5,7 @@ import java.io.IOException;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+    // this is now 1 commit in new main branch main_new
     public static void main(String[] args) throws IOException, InterruptedException {
         Process process = new ProcessBuilder(
                 "cmd.exe", "/c", "start", "cmd.exe"
