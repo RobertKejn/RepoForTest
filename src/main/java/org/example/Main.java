@@ -15,5 +15,6 @@ public class Main {
         System.out.println("CMD PID = " + pid);
 
         Thread.sleep(15000);
+        // COMMIT 2 IN MAIN MERGE CONFLICT
     }
 }
