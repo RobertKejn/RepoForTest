@@ -15,6 +15,7 @@ public class Main {
         System.out.println("CMD PID = " + pid);
 
         Thread.sleep(15000);
+        // COMMIT 2 IN MAIN MERGE CONFLICT
         // this is commit 1 (but actually 3)
         // this is commit 2
         // this is commit 3!
