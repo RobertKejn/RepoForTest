@@ -14,6 +14,8 @@ public class Main {
         long pid = process.pid();
         System.out.println("CMD PID = " + pid);
 
+        // and some more COMMIT 3 MAIN
+
         Thread.sleep(15000);
         // COMMIT 2 IN MAIN MERGE CONFLICT
     }
